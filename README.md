@@ -31,6 +31,9 @@ The developed dashboard provides comprehensive visibility into funnel metrics, e
 - Increasing the user interaction rate by 1% could yield an additional $285 in daily revenue.
 - A 1% increase in successful login completions could result in an additional $405 in daily revenue.
 
+![image](https://github.com/user-attachments/assets/4b415552-d248-4360-9c31-dd957f5aa0fa)
+
+
 ### Recommendations:
 - Send automated reminders to users who have not completed their login.
 - Work closely with clients to provide better guidance and support to their users.
