@@ -4,11 +4,11 @@
 Leveraging SQL, Python, and Power BI, I conducted an in-depth analysis of user behavior within the order funnel. The analysis pinpointed two critical areas for potential revenue growth: increasing user engagement rates and boosting the rate of successful login attempts. Recommended actions to enhance conversion include:
 
 - **Optimize workflow messaging**
-- **Implement proactive reminders**
+- **Implement proactive reminders, emails or texts**
 - **Strengthen client support initiatives**
 
 ## Business Problem
-The primary business challenge was to address a lower-than-anticipated conversion rate in the SaaS FinTech product. The goal was to identify stages in the funnel where users were disengaging and propose strategies to improve the completion of orders, thereby enhancing revenue.
+The primary business challenge was to address a lower conversion rate than expected (based on users who start orders vs. complete the order) in the product. The goal was to identify stages in the funnel where users were disengaging and propose strategies to improve the completion of orders, thereby enhancing revenue.
 
 ## Methodology
 1. **Data Extraction & Preparation**:
