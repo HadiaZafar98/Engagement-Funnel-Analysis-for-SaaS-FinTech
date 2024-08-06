@@ -9,6 +9,9 @@ Leveraging SQL, Python, and Power BI, I conducted an in-depth analysis of user b
 
 ## Business Problem
 The primary business challenge was to address a lower conversion rate than expected (based on users who start orders vs. complete the order) in the product. The goal was to identify stages in the funnel where users were disengaging and propose strategies to improve the completion of orders, thereby enhancing revenue.
+![image](https://github.com/user-attachments/assets/d837202b-1b7e-4a33-ba3e-711f9586da83)
+
+
 
 ## Methodology
 1. **Data Extraction & Preparation**:
